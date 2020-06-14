@@ -1,0 +1,38 @@
+[
+  {
+    "names": [
+      "toughasnails:jelled_slime_helmet",
+      "toughasnails:jelled_slime_chestplate",
+      "toughasnails:jelled_slime_leggings",
+      "toughasnails:jelled_slime_boots"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "toughasnails:wool_helmet",
+      "toughasnails:wool_chestplate",
+      "toughasnails:wool_leggings",
+      "toughasnails:wool_boots"
+    ],
+    "modifier": 1
+  },
+  {
+    "names": [
+      "tfc:metal/helmet/blue_steel",
+      "tfc:metal/chestplate/blue_steel",
+      "tfc:metal/greaves/blue_steel",
+      "tfc:metal/boots/blue_steel"
+    ],
+    "modifier": -1
+  },
+  {
+    "names": [
+      "tfc:metal/helmet/red_steel",
+      "tfc:metal/chestplate/red_steel",
+      "tfc:metal/greaves/red_steel",
+      "tfc:metal/boots/red_steel"
+    ],
+    "modifier": 1
+  }
+]
