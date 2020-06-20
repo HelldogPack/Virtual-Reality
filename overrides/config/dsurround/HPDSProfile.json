@@ -1,0 +1,27 @@
+{
+        "biomes":[
+        ],
+        "blocks":[
+        ],
+        "items": {
+        },
+        "dimensions":[
+            {
+                "dimId": 0,
+                "skyHeight": 22,
+                "cloudHeight": 224
+            }
+        ],
+        "acoustics": {
+        },
+        "primitiveAcoustics": {
+        },
+        "footsteps":{
+        },
+        "forgeMappings":[
+        ],
+        "variators": {
+        },
+        "entities": {
+        }
+} 
