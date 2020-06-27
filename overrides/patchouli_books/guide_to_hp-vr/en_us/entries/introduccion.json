@@ -1,0 +1,11 @@
+{
+    "name": "Introducción",
+    "icon": "minecraft:writable_book",
+    "category": "patchouli:general",
+    "pages": [
+        {
+            "type": "text",
+            "text": "PLACEHOLDER"
+        }
+    ]
+} 
