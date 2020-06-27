@@ -4,7 +4,7 @@
         "title":
         {
             "image" : "custommainmenu:textures/gui/minecraft.png",
-            "posX" : -137,
+            "posX" : -150,
             "posY" : 30,
             "width" : 300,
             "height" : 40,
@@ -14,7 +14,7 @@
         "edition":
         {
             "image" : "custommainmenu:textures/gui/edition.png",
-            "posX" : -49,
+            "posX" : -64,
             "posY" : 67,
             "width" : 128,
             "height" : 16,
