@@ -1,6 +1,7 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 //#Remove
+recipes.removeByRecipeName("minecraft:stick");
 recipes.remove(<ceramics:clay_barrel_unfired:1>);
 recipes.remove(<ceramics:clay_barrel_unfired>);
 recipes.remove(<ceramics:unfired_clay:8>);
@@ -12,6 +13,8 @@ recipes.remove(<toughasnails:purified_water_bottle>);
 recipes.remove(<toughasnails:canteen>);
 //Don't touch me!
 //#Add
+recipes.addShaped(<minecraft:stick> * 16, [[<ore:plankWood>],[<ore:plankWood>]]);
+recipes.addShapeless(<minecraft:stick> * 2, [<ore:saw>.transformDamage(),<ore:lumber>]);
 recipes.addShaped(<rftools:matter_receiver>, [[<ore:ingotWroughtIron>, <ore:ingotWroughtIron>, <ore:ingotWroughtIron>],[<ore:dustRedstone>, <rftools:machine_frame>, <ore:dustRedstone>], [<ore:ingotBismuth>, <ore:ingotBismuth>, <ore:ingotBismuth>]]);
 recipes.addShaped(<rftools:matter_transmitter>, [[<ore:ingotBismuth>, <ore:ingotBismuth>, <ore:ingotBismuth>],[<ore:dustRedstone>, <rftools:machine_frame>, <ore:dustRedstone>], [<ore:ingotWroughtIron>, <ore:ingotWroughtIron>, <ore:ingotWroughtIron>]]);
 recipes.addShaped(<rftoolsdim:dimension_builder>, [[<ore:ingotBismuth>, <ore:ingotDoubleBismuthBronze>, <ore:ingotBismuth>],[<ore:ingotBlackSteel>, <rftools:machine_frame>, <ore:ingotBlackSteel>], [<ore:ingotGold>, <ore:ingotDoubleGold>, <ore:ingotGold>]]);
