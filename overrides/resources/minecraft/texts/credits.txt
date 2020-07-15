@@ -1,5 +1,5 @@
 [C]§f============
-[C]§eHelldogPack Team
+[C]§eHelldogPack Team§f -§6 9
 [C]§f============
  
 §6Líder
@@ -21,7 +21,6 @@
  
 §dModders
 §f          Grillo78
-§f          FELIX GAMES 097
  
 §4Hosts
 §f          Grillo78
@@ -34,6 +33,9 @@
 §f          Grillo78
 §f          Tigersonic2
 
+§8Contribuciones Indirectas
+§f          JUEGOS SIN MÁS
+
 [C]§f============
 [C]§eAgradecimientos Especiales
 [C]§f============
@@ -42,6 +44,8 @@
 §f          Roiniti
 
 §f...Y a todos aquellos que nos hayan apoyado con sugerencias o reportes de errores.
+
+§Y al puto HPBot.
 
 
 
