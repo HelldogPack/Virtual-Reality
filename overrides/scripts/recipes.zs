@@ -13,6 +13,7 @@ recipes.remove(<toughasnails:purified_water_bottle>);
 recipes.remove(<toughasnails:canteen>);
 //Don't touch me!
 //#Add
+recipes.addShaped(<minecraft:speckled_melon>, [[<minecraft:gold_nugget>, <minecraft:gold_nugget>, <minecraft:gold_nugget>],[<minecraft:gold_nugget>, <minecraft:melon>, <minecraft:gold_nugget>], [<minecraft:gold_nugget>, <minecraft:gold_nugget>, <minecraft:gold_nugget>]]);
 recipes.addShaped(<minecraft:stick> * 16, [[<ore:plankWood>],[<ore:plankWood>]]);
 recipes.addShapeless(<minecraft:stick> * 2, [<ore:saw>.transformDamage(),<ore:lumber>]);
 recipes.addShaped(<rftools:matter_receiver>, [[<ore:ingotWroughtIron>, <ore:ingotWroughtIron>, <ore:ingotWroughtIron>],[<ore:dustRedstone>, <rftools:machine_frame>, <ore:dustRedstone>], [<ore:ingotBismuth>, <ore:ingotBismuth>, <ore:ingotBismuth>]]);
